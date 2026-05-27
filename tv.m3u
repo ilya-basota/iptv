@@ -19,7 +19,7 @@ https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/video_800x450_avc1
 https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/video_800x450_avc1/playlist.m3u8?useseq=t
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные", Россия 24
-https://a1437443950-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_800x450_avc1/playlist.m3u8?useseq=t
+https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_800x450_avc1/playlist.m3u8?useseq=t
 
 #EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские", Карусель
 https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/video_800x450_avc1/playlist.m3u8?useseq=t
