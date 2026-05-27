@@ -81,11 +81,8 @@ https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/video_800x450_av
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="+2 часа", ТНТ4
 https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/video_800x450_avc1/playlist.m3u8?useseq=t
 
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Региональные", Страна ТВ
+#EXTINF:-1 tvg-id="stranafm" tvg-logo="https://iptvx.one/picons/stranafm.png" group-title="Региональные", Страна ТВ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="Региональные" ,Урал 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_101_4e9e7e3b/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Кино и сериалы" ,Русский Иллюзион
 http://158.101.222.193:88/georgia_play.php?id=rusilluzion
