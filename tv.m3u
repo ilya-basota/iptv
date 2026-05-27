@@ -80,3 +80,54 @@ https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/video_800x450_av
 
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="+2 часа", ТНТ4
 https://a1437443910-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/video_800x450_avc1/playlist.m3u8?useseq=t
+
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Региональные", Страна ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="Региональные" ,Урал 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_101_4e9e7e3b/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Кино и сериалы" ,Русский Иллюзион
+http://158.101.222.193:88/georgia_play.php?id=rusilluzion
+
+#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Кино и сериалы" ,Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Хобби и увлечения" ,Точка Отрыва
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group-title="Хобби и увлечения", Охотник и рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Хобби и увлечения", Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
+
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Хобби и увлечения" ,Охота и рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь
+http://185.57.68.33/40/index.m3u8
+
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Хобби и увлечения" ,Домашние Животные
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби и увлечения" ,АВТО 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные" ,Техно 24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://iptvx.one/picons/smotrim-100-fakty.png" group-title="Познавательные" ,Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательные" ,Первый космический
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательные" ,В мире животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные" ,National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные", Nat Geo Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
